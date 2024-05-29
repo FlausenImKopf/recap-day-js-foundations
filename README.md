@@ -5,6 +5,6 @@
 
 We were given three Codewars-like javascript coding tasks to solve:
 
-- zip strings+
+- zip strings
 - extract classname
 - filter api data
